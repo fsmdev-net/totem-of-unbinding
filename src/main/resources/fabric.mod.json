@@ -16,7 +16,7 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"net.fsmeow.totemofunbinding.TotemOfUnbinding"
+			"net.fsmdev.totemofunbinding.TotemOfUnbinding"
 		]
 	},
 	"mixins": [

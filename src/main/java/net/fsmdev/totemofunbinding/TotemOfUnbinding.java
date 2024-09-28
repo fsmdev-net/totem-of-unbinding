@@ -1,4 +1,4 @@
-package net.fsmeow.totemofunbinding;
+package net.fsmdev.totemofunbinding;
 
 import net.fabricmc.api.ModInitializer;
 

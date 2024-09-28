@@ -1,6 +1,6 @@
 {
   "required": true,
-  "package": "net.fsmeow.totemofunbinding.mixin",
+  "package": "net.fsmdev.totemofunbinding.mixin",
   "compatibilityLevel": "JAVA_21",
   "mixins": [
     "UsedTotemCriterionMixin"

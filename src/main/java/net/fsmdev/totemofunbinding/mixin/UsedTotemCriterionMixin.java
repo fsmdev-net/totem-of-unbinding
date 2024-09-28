@@ -1,4 +1,4 @@
-package net.fsmeow.totemofunbinding.mixin;
+package net.fsmdev.totemofunbinding.mixin;
 
 import net.minecraft.advancement.criterion.UsedTotemCriterion;
 import net.minecraft.enchantment.Enchantments;
