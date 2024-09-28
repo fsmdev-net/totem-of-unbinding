@@ -1,0 +1,33 @@
+{
+	"schemaVersion": 1,
+	"id": "totem-of-unbinding",
+	"version": "${version}",
+	"name": "Totem of Unbinding",
+	"description": "Armor with \"Curse of Binding\" will drop when a totem of undying is used.",
+	"authors": [
+		"FsmDev"
+	],
+	"contact": {
+		"homepage": "https://fsmdev.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/totem-of-unbinding/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.fsmeow.totemofunbinding.TotemOfUnbinding"
+		]
+	},
+	"mixins": [
+		"totem-of-unbinding.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16",
+		"minecraft": "~1.21",
+		"java": ">=21"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
